@@ -70,5 +70,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh No, I Got Into the Wrong Vehicle](https://cletusajibade.medium.com/oh-no-i-got-into-the-wrong-vehicle-9ca83dca5a5a?source=rss-d79997665eb8------2)
+- [The Incredible Weapon of Self Discovery](https://medium.com/nasara/the-incredible-weapon-of-self-discovery-eb8b1feddb6c?source=rss-d79997665eb8------2)
+- [What Will People Remember You For](https://medium.com/nasara/what-will-people-remember-you-for-5f9ad994926b?source=rss-d79997665eb8------2)
+- [I Graduated First Class Years Back but This Is What I Know Now](https://medium.com/nasara/i-graduated-first-class-years-back-but-this-is-what-i-know-now-41e9417de7e5?source=rss-d79997665eb8------2)
+- [I Had a Dream](https://medium.com/nasara/i-had-a-dream-d0c47e8eb10b?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
