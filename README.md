@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria now working in the U.S.
+I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria now based in the U.S.
 - :telescope: As a Software Engineer, I work full stack building scalable backend and frontend systems for web applications. Of recent, I have also dabbled in DevOps and managing a GRC platform, building and integrating backend APIs at my work.
 
 - :seedling: I try to do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://medium.com/@cletusajibade).
