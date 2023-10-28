@@ -32,7 +32,7 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: I try to do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://medium.com/@cletusajibade).
 
-- :zap: In my free time, I read books ranging from personal finace to technical books. I love reading tech articles and learning from online courses, having invested a lot in this. I like the idea of the FIRE movement, you might just see me one day retired and traveling round the world. 
+- :zap: In my free time, I read books ranging from personal finance to technical books. I love reading tech articles and learning from online courses, having invested a lot in this. I like the idea of the FIRE movement, you might just see me one day retired and traveling round the world. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cletusajibade/)
 
