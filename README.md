@@ -28,11 +28,11 @@
 ### :man_technologist: About Me :
 
 I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria now based in the U.S.
-- :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time in the past building native Android apps with Java and later Flutter to target iOS devices with the same code base. Of recent, I have dabbled in DevOps and managing a GRC platform, building and integrating backend APIs at my work.
+- :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time in the past building native Android apps with Java, and Flutter to target iOS devices with the same code base. Of recent, I have dabbled in DevOps and managing a GRC platform, building and integrating backend APIs at my work.
 
 - :seedling: In my free time, I do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://medium.com/@cletusajibade).
 
-- :zap: In order to gain more knowledge, I read books ranging from personal finance to technical books. I love reading tech articles and learning from online courses, having invested a lot in this. I am religious and I take my faith seriously. I like the idea of the FIRE movement; you never can tell, you might just catch me one day retired and traveling round the world. 
+- :zap: In order to gain more knowledge, I read books ranging from personal finance to technical books. I love reading tech articles and learning from online courses, having invested a lot in this. I am religious and I take my faith seriously. Finally, I like the idea of the FIRE movement; you never can tell, you might just catch me out there traveling round the world after retirement, don't forget to say hi. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cletusajibade/)
 
