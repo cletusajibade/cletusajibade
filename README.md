@@ -30,7 +30,7 @@
 I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria now based in the U.S.
 - :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time in the past building native Android apps with Java, and recently with Flutter to target both iOS & Android devices with the same code base. Currently, I've been finding myself doing some level of DevOps and managing a GRC platform, building and integrating backend APIs at my work.
 
-- I'm the founder of [![UnlimitedCode.io](https://img.shields.io/badge/UnlimitedCode-8A2BE2)](https://unlimitedcode.io), where we are developing the next level of engineers who will transform the world one line of code at a time. 
+- I'm the founder of [![UnlimitedCode.io](https://img.shields.io/badge/UnlimitedCode-00AF94)](https://unlimitedcode.io), where we are developing the next level of engineers who will transform the world one line of code at a time. 
 
 - :seedling: In my free time, I do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://cletusajibade.com).
 
