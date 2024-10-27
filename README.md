@@ -73,10 +73,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Table](https://cletusajibade.medium.com/time-table-deb2f9514e5c?source=rss-d79997665eb8------2)
 - [Learning to Code Has Never Been Easier](https://cletusajibade.medium.com/learning-to-code-has-never-been-easier-5bd01583d302?source=rss-d79997665eb8------2)
 - [How Beginners and Intermediate Developers Can Improve Their Programming Skills](https://cletusajibade.medium.com/how-beginners-and-intermediate-developers-can-improve-their-programming-skills-7a5534a45c89?source=rss-d79997665eb8------2)
 - [Why You Should Join a Tech Meetup](https://cletusajibade.medium.com/why-you-should-join-a-tech-meetup-17879a819f40?source=rss-d79997665eb8------2)
 - [Technology Stack in Demand for Software Engineers to Learn in 2023](https://cletusajibade.medium.com/technology-stack-in-demand-for-software-engineers-to-learn-in-2023-a41680861d7?source=rss-d79997665eb8------2)
-- [Oh No, I Got Into the Wrong Vehicle](https://cletusajibade.medium.com/oh-no-i-got-into-the-wrong-vehicle-9ca83dca5a5a?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
