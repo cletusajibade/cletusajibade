@@ -29,7 +29,7 @@
 
 I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria now based in the U.S.
 
-- :briefcase: I'm the founder of [![UnlimitedCode.io](https://img.shields.io/badge/UnlimitedCode-00AF94?logo=internetcomputer)](https://unlimitedcode.io), a platform that is raising the next level of engineers and telents who are transforming the world, one line of code at a time.
+- :briefcase: I'm the founder of [![UnlimitedCode.io](https://img.shields.io/badge/UnlimitedCode-00AF94?logo=internetcomputer)](https://unlimitedcode.io), a platform that is raising next-level tech talents and engineers who are transforming the world, one line of code at a time.
 
 - :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time building native Android apps with Java, and recently with Flutter to target both iOS & Android devices with the same code base. Currently, I've been finding myself doing some level of DevOps and managing a GRC platform, building and integrating backend APIs at my work.
 
