@@ -73,10 +73,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Excellence at the Unlimitedcode Bootcamp!](https://cletusajibade.medium.com/celebrating-excellence-at-the-unlimitedcode-bootcamp-7feca95af919?source=rss-d79997665eb8------2)
 - [2024: Year In Review](https://cletusajibade.medium.com/2024-year-in-review-e328cf3f61a8?source=rss-d79997665eb8------2)
 - [Penultimate Class of UnlimitedCode Bootcamp](https://cletusajibade.medium.com/penultimate-class-of-unlimitedcode-bootcamp-d4b285445d33?source=rss-d79997665eb8------2)
 - [Exciting News: Google + Figma Partnerships](https://cletusajibade.medium.com/exciting-news-google-figma-partnerships-8f916b4d074a?source=rss-d79997665eb8------2)
 - [Big News for Unlimitedcode!](https://cletusajibade.medium.com/big-news-for-unlimitedcode-b90d8dd4e6db?source=rss-d79997665eb8------2)
-- [How to Resolve CORS Errors on Debug Mode In WebStorm](https://cletusajibade.medium.com/how-to-resolve-cors-errors-on-debug-mode-in-webstorm-2536f09736ea?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
