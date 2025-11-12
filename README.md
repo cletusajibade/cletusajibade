@@ -35,6 +35,9 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: In my free time, I do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://cletusajibade.com).
 
+- :seedling: In my free time, I do technical content writing or just share general thoughts about life on my Medium blog <a href="https://cletusajibade.com" target="_blank"><img src="https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white" alt="Medium Badge"></a>
+- [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://cletusajibade.com).
+
 - :zap: In order to gain more knowledge, I read books ranging from personal finance to technical books. I love reading tech articles and learning from online courses, having invested a lot in this. I am religious and I take my faith seriously by reading contents that build up my faith. Finally, I like the idea of the FIRE movement; you never can tell, you might just catch me out there traveling round the world after retirement; don't forget to say hi. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cletusajibade/)
