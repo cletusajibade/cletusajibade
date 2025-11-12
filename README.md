@@ -31,7 +31,7 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :briefcase: I'm the founder of [![UnlimitedCode.io](https://img.shields.io/badge/UnlimitedCode-00AF94?logo=internetcomputer)](https://unlimitedcode.io), a platform that is raising next-level tech talents and engineers who are transforming the world, one line of code at a time.
 
-- :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time building native Android apps with Java, and recently with Flutter to target both iOS & Android devices with the same code base. Currently, I've been involved in DevOps and software engineering management where I lead engineering teams across organisations.
+- :telescope: As a Software Engineer, I work full-stack building scalable backend and frontend systems for web applications. I've also spent some time building native Android apps with Java, and recently with Flutter to target both iOS & Android devices with the same code base. Currently, I've been involved in DevOps and software engineering management where I lead engineering teams building fullstack applications and AI/ML solutions.
 
 - :seedling: In my free time, I do technical content writing or just share general thoughts about life on my Medium blog [![Medium Badge](https://img.shields.io/badge/Medium-darkgreen?style=flat&logo=Medium&logoColor=white)](https://cletusajibade.com).
 
