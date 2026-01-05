@@ -73,10 +73,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Vertical GenAI Use Cases Rarely Escape the Pilot Phase](https://cletusajibade.medium.com/why-vertical-genai-use-cases-rarely-escape-the-pilot-phase-53170a735f9e?source=rss-d79997665eb8------2)
+- [Why Most GenAI Deployments Haven’t Moved the Revenue Needle](https://cletusajibade.medium.com/why-most-genai-deployments-havent-moved-the-revenue-needle-53c9c60e5b03?source=rss-d79997665eb8------2)
 - [Are You Struggling with Coding? Here Are the Things You Should Do](https://cletusajibade.medium.com/are-you-struggling-with-coding-here-are-the-things-you-should-do-3d62b0939ed8?source=rss-d79997665eb8------2)
 - [How Software Engineers Can Win in the Face of AI and LLMs](https://cletusajibade.medium.com/how-software-engineers-can-win-in-the-face-of-ai-and-llms-4bb57fca217c?source=rss-d79997665eb8------2)
 - [Programming and Software Engineering in the Era of AI and LLMs](https://cletusajibade.medium.com/programming-and-software-engineering-in-the-era-of-ai-and-llms-abe81a92db79?source=rss-d79997665eb8------2)
-- [Celebrating Excellence at the Unlimitedcode Bootcamp!](https://cletusajibade.medium.com/celebrating-excellence-at-the-unlimitedcode-bootcamp-7feca95af919?source=rss-d79997665eb8------2)
-- [2024: Year In Review](https://cletusajibade.medium.com/2024-year-in-review-e328cf3f61a8?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
