@@ -73,10 +73,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What if Your Coding Agent Could Rewrite Your Bad Prompts Into Elite Ones?](https://cletusajibade.medium.com/what-if-your-coding-agent-could-rewrite-your-bad-prompts-into-elite-ones-09ee143defce?source=rss-d79997665eb8------2)
 - [We May Be Giving AI to Beginners Too Early](https://cletusajibade.medium.com/we-may-be-giving-ai-to-beginners-too-early-bbb84c3e37fe?source=rss-d79997665eb8------2)
 - [“AI Is Ending Software Engineering.”](https://cletusajibade.medium.com/ai-is-ending-software-engineering-0afc45fe8fc8?source=rss-d79997665eb8------2)
 - [Sometimes, the Best Coding Editor… Is the One That Does Nothing Extra](https://cletusajibade.medium.com/sometimes-the-best-coding-editor-is-the-one-that-does-nothing-extra-86422727e23d?source=rss-d79997665eb8------2)
 - [Why Vertical GenAI Use Cases Rarely Escape the Pilot Phase](https://cletusajibade.medium.com/why-vertical-genai-use-cases-rarely-escape-the-pilot-phase-53170a735f9e?source=rss-d79997665eb8------2)
-- [Why Most GenAI Deployments Haven’t Moved the Revenue Needle](https://cletusajibade.medium.com/why-most-genai-deployments-havent-moved-the-revenue-needle-53c9c60e5b03?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
