@@ -73,10 +73,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Skills Every Professional Needs in 2026 &lpar;Free Webinar&rpar;](https://cletusajibade.medium.com/the-ai-skills-every-professional-needs-in-2026-free-webinar-67a407c2e143?source=rss-d79997665eb8------2)
 - [How Embeddings Power Retrieval-Augmented Generation &lpar;RAG&rpar; Systems](https://cletusajibade.medium.com/how-embeddings-power-retrieval-augmented-generation-rag-systems-f5ab16aaa165?source=rss-d79997665eb8------2)
 - [The Most Important AI Breakthrough Most Developers Are Still Overlooking: Embeddings](https://cletusajibade.medium.com/the-most-important-ai-breakthrough-most-developers-are-still-overlooking-embeddings-7c5eaaf0ee44?source=rss-d79997665eb8------2)
 - [The Day My Zapier Demo Failed: An Unexpected Lesson in Automation](https://cletusajibade.medium.com/the-day-my-zapier-demo-failed-an-unexpected-lesson-in-automation-93f947b00bf4?source=rss-d79997665eb8------2)
 - [What if Your Coding Agent Could Rewrite Your Bad Prompts Into Elite Ones?](https://cletusajibade.medium.com/what-if-your-coding-agent-could-rewrite-your-bad-prompts-into-elite-ones-09ee143defce?source=rss-d79997665eb8------2)
-- [We May Be Giving AI to Beginners Too Early](https://cletusajibade.medium.com/we-may-be-giving-ai-to-beginners-too-early-bbb84c3e37fe?source=rss-d79997665eb8------2)
 <!-- BLOG-POST-LIST:END -->
 
